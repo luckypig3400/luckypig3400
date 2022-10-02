@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 -->
 
 # Technologies & Tools
+![Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
 ![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
 
 ![VS Code](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=Visual%20Studio%20Code&logoColor=white&color=2bbc8a)
